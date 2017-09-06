@@ -40,7 +40,7 @@ There are _3_ components of slice:
 - *length* : the number of elements referred to by the slice
 - *capacity*: the number of elements in the underlying array
 
-* Bonus: How "append()" works?
+* Bonus: How does "append()" works?
 
 .link https://github.com/golang/go/blob/master/src/runtime/slice.go#L82 slice.go#L82
 
